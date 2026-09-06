@@ -1,10 +1,5 @@
 # Yash Edits Studio
 
-https://talaledits.xyz/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAadADF7DWzPMUamTQqWvv2kGE2uKFSkvHRnUOcLH8K3OfZX9VbG97ZC_jhxA3w_aem_QIx5YdMQxkOUJkgyabxSPg
-
-clone this website and change the name from [TalalOnlyEdit](https://talaledits.xyz/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAadADF7DWzPMUamTQqWvv2kGE2uKFSkvHRnUOcLH8K3OfZX9VbG97ZC_jhxA3w_aem_QIx5YdMQxkOUJkgyabxSPg#top)  to Yashedits and change the colour theme to red and white 
-change email to yashverma94621@gmail.com
- and change the instagram to @yashthumbnails
 
 This project was built with [Lovable](https://lovable.dev).
 
