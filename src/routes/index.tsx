@@ -202,7 +202,7 @@ function Index() {
           </div>
           <div className="testimonial-videos">
             <div className="testimonial-video video-shell"><video playsInline preload="metadata" poster="/assets/testimonial.jpg" controls><source src="/assets/testimonial.mp4" type="video/mp4" /></video></div>
-            <div className="testimonial-video video-shell"><video playsInline preload="metadata" poster="/assets/testimonial-2.jpg" controls><source src="/assets/testimonial-2.mp4" type="video/mp4" /></video></div>
+            <div className="testimonial-video video-shell"><video playsInline preload="metadata" poster="/assets/testimonial-2.jpg" controls><source src="/assets/testimonial.mp4" type="video/mp4" /></video></div>
           </div>
         </section>
 
