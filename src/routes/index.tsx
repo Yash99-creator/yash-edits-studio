@@ -212,7 +212,7 @@ function Index() {
             <p>Choose the level of support that fits your content volume, from full strategy + editing to editing only.</p>
           </div>
           <div className="pricing-grid">
-            <PricingCard title="Content Strategy + Video Editing" note="For creators and brands looking for a complete content system." rows={[["Basic", "10+ videos per month", "$800", "/month"], ["Standard", "20+ videos per month", "$1,200", "/month"], ["Premium", "30+ videos per month", "$1,500", "/month"]]} includes="hook and script writing, content calendar and posting strategy, and monthly performance feedback." />
+            
             <PricingCard title="Video Editing Only" note="For clients who already have their content strategy and need the edit." rows={[["Single edit", "One video", "$40", ""], ["Basic", "10+ edits per month", "$350", "/month"], ["Standard", "20+ edits per month", "$650", "/month"], ["Premium", "30+ edits per month", "$850", "/month"]]} includes="3 revisions per video" />
           </div>
           <div className="pricing-shared"><strong>Included in every package</strong><div className="pricing-feature-list"><span>Revisions, 3 per video</span><span>Basic cutting and pacing</span><span>Captions and subtitles</span><span>Sound design</span><span>Motion graphics</span><span>Color correction</span><span>Smooth transitions</span><span>Priority delivery</span></div></div>
