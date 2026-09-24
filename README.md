@@ -1,23 +1,85 @@
-# Yash Edits Studio
+# Yash Edits Studios 🎬
 
+**Yash Edits Studios** is a short-form video editing portfolio created to showcase my work in **Reels, YouTube Shorts, promotional videos, and social media content**.
 
-This project was built with [Lovable](https://lovable.dev).
+The website is designed around a visual-first experience, allowing visitors to quickly explore my editing work through a clean, modern, and responsive interface.
 
-## Build with Lovable
+## ✨ Features
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/c79f2644-60f5-45e5-91fa-2a3269e38b05).
+- Short-form video portfolio
+- Reels and YouTube Shorts showcase
+- Video preview sections
+- Clean and minimal UI
+- Responsive design
+- Smooth navigation and interactions
+- Mobile-friendly layout
+- Visual-focused project presentation
+- Contact section for potential clients
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+## 🛠️ Tech Stack
 
-## Development
+- **React**
+- **TypeScript**
+- **Vite**
+- **Tailwind CSS**
+- **Lucide React**
+- **Git & GitHub**
+- **VS Code**
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+## 🏗️ How I Built It
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+The website was built using a **component-based React architecture**.
+
+The development process included:
+
+1. Planning the portfolio structure
+2. Designing a clean, video-focused interface
+3. Creating reusable React components
+4. Implementing the UI using Tailwind CSS
+5. Integrating video previews into the portfolio
+6. Adding responsive layouts for different screen sizes
+7. Adding smooth interactions and navigation
+8. Testing and refining the interface
+9. Using Git and GitHub for version control
+
+## 🎨 Design Approach
+
+The design focuses on keeping the **videos as the main visual element**.
+
+The interface uses:
+
+- Minimal layouts
+- Large video previews
+- Clear project presentation
+- Strong typography
+- Consistent spacing
+- Simple navigation
+- Responsive video layouts
+
+The goal is to let the editing work speak for itself without unnecessary UI elements.
+
+## 🎥 What I Edit
+
+- Instagram Reels
+- YouTube Shorts
+- Short-form promotional content
+- Social media videos
+- Talking-head content
+- Fast-paced edits
+- Motion-based short videos
+
+## 👨‍💻 About
+
+**Yash Edits Studios** is my short-form video editing portfolio, created to showcase my editing style and previous work.
+
+I focus on creating engaging, fast-paced, and visually polished short-form content designed for modern social media platforms.
+
+## 🔗 Links
+
+**Portfolio:**  [https://yash-edits-studio.vercel.app/](https://yash-edits-studio.vercel.app/)
+
+**GitHub:** [https://github.com/Yash99-creator](https://github.com/Yash99-creator)
+
+---
+
+⭐ If you like the portfolio, consider giving the repository a star.
